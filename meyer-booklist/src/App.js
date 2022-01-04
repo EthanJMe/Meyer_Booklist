@@ -1,6 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import FirstDisplay from './firstDisplay';
+import FirstDisplay from './FirstDisplay';
 
 function App() {
   return (
